@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashvardhan
 - 👀 I’m interested in Web Development and Flutter App development
-- 🌱 I’m currently learning React and Advanced Flutter
+- 🌱 I’m currently learning JS and React and Advanced Flutter(Firebase).
 - 💞️ I’m looking to collaborate on a flutter or Web Project.
 - 📫 Email me At emailyashvardhan@gamil.com
 
